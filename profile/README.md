@@ -63,15 +63,6 @@ Bewavoca is an app where users learn Jeju dialect through OX quizzes, matching g
 
 ---
 
-## 설치 및 실행 | Getting Started
-
-**추가 예정**  
-- 백엔드 실행 방법
-- iOS 클라이언트 실행 방법
-- 배포된 버전(TestFlight 또는 URL)
-
----
-
 ## 라이센스 | License
 
 이 프로젝트는 MIT 라이센스를 따릅니다. 자유롭게 사용하세요!  
