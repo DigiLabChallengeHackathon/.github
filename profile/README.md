@@ -19,7 +19,6 @@ This app aims to enhance understanding and interest in the Jeju language through
 - [프로젝트 소개](#프로젝트-소개) | Introduction
 - [주요 기능](#주요-기능) | Features
 - [기술 스택](#기술-스택) | Tech Stack
-- [설치 및 실행](#설치-및-실행) | Getting Started
 - [라이센스](#License) | License
 - [Contact](#Contact) | Contact
 
@@ -87,5 +86,3 @@ For inquiries about the project, please contact:
   - 각 팀원이 맡은 역할과 기여도를 명시.
 - **데모 영상 또는 스크린샷**  
   - 앱 실행 화면 또는 GIF 형태로 제공.
-- **사용자 가이드**  
-  - 퀴즈 풀이, 레벨 진행 방식 등 상세 사용자 가이드.
