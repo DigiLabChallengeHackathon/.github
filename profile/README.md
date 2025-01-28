@@ -77,12 +77,4 @@ For more details, see the LICENSE file.
 프로젝트 관련 문의는 아래 이메일로 연락 부탁드립니다:  
 For inquiries about the project, please contact:
 
-📧 **andrewkimswe@gmail.com**  
-
----
-
-## 추가 예정 | To Be Updated
-- **팀원 기여 목록**  
-  - 각 팀원이 맡은 역할과 기여도를 명시.
-- **데모 영상 또는 스크린샷**  
-  - 앱 실행 화면 또는 GIF 형태로 제공.
+📧 **andrewkimswe@gmail.com** 
